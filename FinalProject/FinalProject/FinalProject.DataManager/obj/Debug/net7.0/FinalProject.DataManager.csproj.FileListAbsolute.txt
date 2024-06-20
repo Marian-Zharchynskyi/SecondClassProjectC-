@@ -1,0 +1,15 @@
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\bin\Debug\net7.0\FinalProject.DataManager.deps.json
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\bin\Debug\net7.0\FinalProject.DataManager.dll
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\bin\Debug\net7.0\FinalProject.DataManager.pdb
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\bin\Debug\net7.0\FinalProject.Core.dll
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\bin\Debug\net7.0\FinalProject.Core.pdb
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.csproj.AssemblyReference.cache
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.AssemblyInfoInputs.cache
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.AssemblyInfo.cs
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.csproj.CoreCompileInputs.cache
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.csproj.CopyComplete
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.dll
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\refint\FinalProject.DataManager.dll
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\FinalProject.DataManager.pdb
+D:\ОА\C#\2 курс\FinalProject\FinalProject\FinalProject.DataManager\obj\Debug\net7.0\ref\FinalProject.DataManager.dll
